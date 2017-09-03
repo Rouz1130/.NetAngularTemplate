@@ -1,0 +1,26 @@
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.deps.json
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.runtimeconfig.json
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.runtimeconfig.dev.json
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.dll
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.pdb
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.csprojResolveAssemblyReference.cache
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.csproj.CoreCompileInputs.cache
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.AssemblyInfo.cs
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.dll
+C:\Users\rouzbeh.majlessi\Documents\Visual Studio 2017\Projects\WebAngularRAC\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.pdb
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.deps.json
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.runtimeconfig.json
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.runtimeconfig.dev.json
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.csprojResolveAssemblyReference.cache
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.dll
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.pdb
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.deps.json
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.runtimeconfig.json
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.runtimeconfig.dev.json
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.csprojResolveAssemblyReference.cache
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.dll
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.pdb
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.dll
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\bin\Debug\netcoreapp1.1\WebAngularRAC.pdb
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.csproj.CoreCompileInputs.cache
+C:\Users\rouzbeh.majlessi\Desktop\WebAngularRAC\obj\Debug\netcoreapp1.1\WebAngularRAC.AssemblyInfo.cs
